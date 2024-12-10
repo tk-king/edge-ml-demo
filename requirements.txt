@@ -1,0 +1,5 @@
+edge-ml
+pandas
+numpy
+scikit-learn
+tensorflow
